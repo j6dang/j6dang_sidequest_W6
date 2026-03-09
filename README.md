@@ -1,6 +1,6 @@
 ## Project Title
 
-GBDA302 Week 4 Example 2: Level class (hard-coded grid)
+GBDA302 Week 6 Example 2
 
 ---
 
@@ -12,34 +12,33 @@ Jenny Dang
 
 ## Description
 
-This sketch demonstrates how a 2D array represents a maze/game level changes the structure of the code so that "a level" becomes a reusable object.
-The sketch provides a user with a maze and through this maze, they have to collect the coloured circles to move onto the next level. 
-
----
+## This sketch demonstrates how to use sound in code. When the fox jumps, there is a jumping sound effect. There is also background music which is first triggered by a mouse click.
 
 ## Learning Goals
 
 Learning Goals:
 
-- A class lets you bundle data (the grid) + behavior (draw, size helpers)
-  into one thing you can reuse later (especially once you start loading
-  multiple levels from JSON).
-- Generating levels using arrays
+- How to use sound in game code
+
 ---
 
 ## Assets
 
-N/A
+- foxjump.mp3
+- gamemusic.mp3
+  Both are from Pixabay
 
 ---
 
 ## Reflection
-In this code, I used ChatGPT to help prompt me an interactive game where the user uses their keyboard to collect the coloured circles. Through this game and code, I used ChatGPT to help me create the arrays for the next level and to help generate the next level when all the circles are gone. I used GenAI to help me understand how to use arrays better. 
+
+In this code, I used ChatGPT to help me add sound to the game to make it more engaging. I added sound to the fox jump and background music to make the game more fun and entertaining to play. I understand how sound and music helped improve the game as a whole.
 
 ---
 
 ## GenAI
 
 The code was written by Dr. Karen Cochrane and David Han but they used GenAI to write the comments.
-This code was then put into ChatGPT by me making a prompt and then ChatGPT edited the code/comments, matching my prompts. 
+This code was then put into ChatGPT by me making a prompt and then ChatGPT edited the code/comments, matching my prompts.
+
 ---
